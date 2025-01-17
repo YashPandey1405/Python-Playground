@@ -1,0 +1,4 @@
+Yash Pandey is a 3rd-year BTech student with a strong foundation in Java, JavaScript, and the MERN stack (MongoDB, Express.js, React, Node.js). 
+Skilled in full-stack development, he has completed multiple projects, including a Password Generator, Currency Converter, and Wanderlust. 
+Yash is currently enhancing his expertise in Data Science with Generative AI and aims for a 12 LPA+ placement. 
+With a balanced approach to challenges, he values continuous improvement, financial responsibility, and maintaining harmonious relationships.
