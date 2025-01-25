@@ -1,0 +1,3 @@
+A computer is a machine that can be programmed to automatically carry out sequences of operations.
+hello
+I am good
